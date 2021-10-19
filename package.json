@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scraping the web in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aybak3k/scraper-node.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Aybak3k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aybak3k/scraper-node/issues"
+  },
+  "homepage": "https://github.com/Aybak3k/scraper-node#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
