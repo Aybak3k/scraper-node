@@ -1,2 +1,5 @@
 - [x] normal scraping
 - [ ] auth scraping
+- [ ] bypass re/hCAPTCHA
+- [ ] bypass Cloudflare DDOS protection
+- [ ] send emails
